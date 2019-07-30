@@ -60,7 +60,7 @@ export class SectionPalestrantesComponent implements OnInit {
             {
                 nome        : 'Liz',
                 sobrenome   : 'Parody',
-                imagem      : 'https://pbs.twimg.com/profile_images/1139639950490644486/bkatzR_J_400x400.jpg',
+                imagem      : '../../../../assets/img/lizParody.jpg',
                 redes       : {
                     twitter : 'https://twitter.com/lizparody23',
                     github  : 'https://github.com/lizparody',
@@ -75,7 +75,7 @@ export class SectionPalestrantesComponent implements OnInit {
                 redes       : {
                     github  : 'https://github.com/Jhonatangiraldo',
                 },
-                bio         : 'Manizaleño. Me gusta viajar, leer, ver anime y debatir :)',
+                bio         : 'Soy Jhonatan, desarrollador WebUI en Globant, y considero el mundo de Javascript tanto front como back un paraíso del aprendizaje. Soy manizaleño y me gusta viajar, leer, ver anime y debatir :)',
             },
 
             {

@@ -67,7 +67,7 @@ export class SectionAgendaComponent implements OnInit {
                 nome: 'Liz Parody',
                 titulo: 'Error Handling Best Practices',
                 desc: 'Every developer wants to write code that works. And a lot of times, chances of your program running as expected reduces to one thing: errors.',
-                imagem: 'https://pbs.twimg.com/profile_images/1139639950490644486/bkatzR_J_400x400.jpg'
+                imagem: '../../../../assets/img/lizParody.jpg'
             },
             {
                 dia: 'Miercoles',
