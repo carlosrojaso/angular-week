@@ -19,7 +19,9 @@ export class SectionAgendaComponent implements OnInit {
                 nome: 'Cristian Gutiérrez',
                 titulo: 'Concurrencia en JS: Porqué tu "setTimeout" te está mintiendo',
                 desc: 'El tema principal es comprender el funcionamiento basico del modelo de concurrencia de JS. Entender conceptos como el stack, event loop, event queue y event job,  para que lo usan los motores de JS y con que se comen. Tambien se busca aclarar un mal entendimiento de metodos asincronicos como los "setTimeout" y demás.',
-                imagem: 'https://avatars2.githubusercontent.com/u/22488812?s=460&v=4'
+                imagem: 'https://avatars2.githubusercontent.com/u/22488812?s=460&v=4',
+                slides: 'https://docs.google.com/presentation/d/10IoBaXWkDdMYKUYihYmf4RAUVRpeOE5bD1a9iFlB9Ig/edit#slide=id.g5da5370993_1_63',
+                video: 'https://youtu.be/EIu9MVlgbp0?t=46',
             },
             {
                 dia: 'Martes',
@@ -27,7 +29,9 @@ export class SectionAgendaComponent implements OnInit {
                 nome: 'Sebastian Gomez',
                 titulo: 'Implementando MapReduce con Web Workers',
                 desc: 'En esta charla vamos a ver el uso de Web Workers para optimizar nuestro trabajo con Javascript fuera del Single Thread Y aplicar técnicas de computación distribuida (mapreduce) con ellos.',
-                imagem: '../../../assets/img/sebastian.jpg'
+                imagem: '../../../assets/img/sebastian.jpg',
+                slides: 'https://docs.google.com/presentation/d/10IoBaXWkDdMYKUYihYmf4RAUVRpeOE5bD1a9iFlB9Ig/edit#slide=id.g5da5370993_1_14',
+                video: 'https://youtu.be/EIu9MVlgbp0?t=1132',
             },
             {
                 dia: 'Martes',
@@ -35,7 +39,9 @@ export class SectionAgendaComponent implements OnInit {
                 nome: 'Paula Mazo',
                 titulo: 'Programación Funcional',
                 desc: 'Pasaremos por la definición de algunos conceptos de la programación funcional hasta explorar cómo se relacionan con las buenas prácticas del desarrollo.',
-                imagem: 'https://avatars2.githubusercontent.com/u/22626905?s=460&v=4'
+                imagem: 'https://avatars2.githubusercontent.com/u/22626905?s=460&v=4',
+                slides: 'https://docs.google.com/presentation/d/10IoBaXWkDdMYKUYihYmf4RAUVRpeOE5bD1a9iFlB9Ig/edit#slide=id.g5ee219cfd5_0_124',
+                video: 'https://youtu.be/EIu9MVlgbp0?t=3966',
             },
             {
                 dia: 'Martes',
@@ -43,7 +49,9 @@ export class SectionAgendaComponent implements OnInit {
                 nome: 'Juan Camilo Diaz',
                 titulo: "Google Cloud Platform Big Data Tools",
                 desc: 'Cuales son las herramientas orientadas a Big Data que podemos encontrar en la Nube de Google.',
-                imagem: 'https://pbs.twimg.com/profile_images/1055300540912074752/Ar7V9bTV_400x400.jpg'
+                imagem: 'https://pbs.twimg.com/profile_images/1055300540912074752/Ar7V9bTV_400x400.jpg',
+                slides: 'https://docs.google.com/presentation/d/10IoBaXWkDdMYKUYihYmf4RAUVRpeOE5bD1a9iFlB9Ig/edit#slide=id.g5ee219cfd5_0_150',
+                video: 'https://youtu.be/EIu9MVlgbp0?t=5284',
             },
             {
                 dia: 'Miercoles',
@@ -133,7 +141,7 @@ export class SectionAgendaComponent implements OnInit {
                 nome: 'Lorena Correa Mejia',
                 titulo: 'Siguiente nivel en pruebas funcionales con Cypress',
                 desc: 'Cypress es una herrramienta para manejar pruebas funcionales en frameworks de JavaScript, React, Vue, Angular etc, logrando simular un usuario real y de esta manera podremos tener como desarrolladores  seguridad de lo que estamos entregando al cliente',
-                imagem: 'https://pbs.twimg.com/profile_images/1097718954796167168/qlZkpQhl_400x400.jpg'
+                imagem: 'https://pbs.twimg.com/profile_images/1155548739521716225/Flvski7F_400x400.jpg'
             },
             {
                 dia     : 'Viernes',
