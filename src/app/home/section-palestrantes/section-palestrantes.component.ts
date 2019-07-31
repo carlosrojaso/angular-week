@@ -176,7 +176,7 @@ export class SectionPalestrantesComponent implements OnInit {
             {
                 nome        : 'Lorena',
                 sobrenome   : 'Correa Mejia',
-                imagem      : 'https://pbs.twimg.com/profile_images/1097718954796167168/qlZkpQhl_400x400.jpg',
+                imagem      : 'https://pbs.twimg.com/profile_images/1155548739521716225/Flvski7F_400x400.jpg',
                 redes       : {
                     twitter : 'https://twitter.com/lavadani',
                     github  : 'https://github.com/Paolore',
