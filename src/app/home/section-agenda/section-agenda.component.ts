@@ -20,8 +20,8 @@ export class SectionAgendaComponent implements OnInit {
                 titulo: 'Concurrencia en JS: Porqué tu "setTimeout" te está mintiendo',
                 desc: 'El tema principal es comprender el funcionamiento basico del modelo de concurrencia de JS. Entender conceptos como el stack, event loop, event queue y event job,  para que lo usan los motores de JS y con que se comen. Tambien se busca aclarar un mal entendimiento de metodos asincronicos como los "setTimeout" y demás.',
                 imagem: 'https://avatars2.githubusercontent.com/u/22488812?s=460&v=4',
-                slides: 'https://docs.google.com/presentation/d/10IoBaXWkDdMYKUYihYmf4RAUVRpeOE5bD1a9iFlB9Ig/edit#slide=id.g5da5370993_1_63',
-                video: 'https://youtu.be/EIu9MVlgbp0?t=46',
+                slides: 'https://drive.google.com/file/d/1Xba53g9VCFDlf4fx-Tadm2uEUR2HxANS/view?usp=sharing',
+                video: 'https://youtu.be/EIu9MVlgbp0?t=46'
             },
             {
                 dia: 'Martes',
@@ -30,8 +30,8 @@ export class SectionAgendaComponent implements OnInit {
                 titulo: 'Implementando MapReduce con Web Workers',
                 desc: 'En esta charla vamos a ver el uso de Web Workers para optimizar nuestro trabajo con Javascript fuera del Single Thread Y aplicar técnicas de computación distribuida (mapreduce) con ellos.',
                 imagem: '../../../assets/img/sebastian.jpg',
-                slides: 'https://docs.google.com/presentation/d/10IoBaXWkDdMYKUYihYmf4RAUVRpeOE5bD1a9iFlB9Ig/edit#slide=id.g5da5370993_1_14',
-                video: 'https://youtu.be/EIu9MVlgbp0?t=1132',
+                slides: 'https://drive.google.com/file/d/1Xba53g9VCFDlf4fx-Tadm2uEUR2HxANS/view?usp=sharing',
+                video: 'https://youtu.be/EIu9MVlgbp0?t=1132'
             },
             {
                 dia: 'Martes',
@@ -40,8 +40,8 @@ export class SectionAgendaComponent implements OnInit {
                 titulo: 'Programación Funcional',
                 desc: 'Pasaremos por la definición de algunos conceptos de la programación funcional hasta explorar cómo se relacionan con las buenas prácticas del desarrollo.',
                 imagem: 'https://avatars2.githubusercontent.com/u/22626905?s=460&v=4',
-                slides: 'https://docs.google.com/presentation/d/10IoBaXWkDdMYKUYihYmf4RAUVRpeOE5bD1a9iFlB9Ig/edit#slide=id.g5ee219cfd5_0_124',
-                video: 'https://youtu.be/EIu9MVlgbp0?t=3966',
+                slides: 'https://drive.google.com/file/d/1Xba53g9VCFDlf4fx-Tadm2uEUR2HxANS/view?usp=sharing',
+                video: 'https://youtu.be/EIu9MVlgbp0?t=3966'
             },
             {
                 dia: 'Martes',
@@ -50,8 +50,8 @@ export class SectionAgendaComponent implements OnInit {
                 titulo: "Google Cloud Platform Big Data Tools",
                 desc: 'Cuales son las herramientas orientadas a Big Data que podemos encontrar en la Nube de Google.',
                 imagem: 'https://pbs.twimg.com/profile_images/1055300540912074752/Ar7V9bTV_400x400.jpg',
-                slides: 'https://docs.google.com/presentation/d/10IoBaXWkDdMYKUYihYmf4RAUVRpeOE5bD1a9iFlB9Ig/edit#slide=id.g5ee219cfd5_0_150',
-                video: 'https://youtu.be/EIu9MVlgbp0?t=5284',
+                slides: 'https://drive.google.com/file/d/1Xba53g9VCFDlf4fx-Tadm2uEUR2HxANS/view?usp=sharing',
+                video: 'https://youtu.be/EIu9MVlgbp0?t=5284'
             },
             {
                 dia: 'Miercoles',
@@ -59,7 +59,9 @@ export class SectionAgendaComponent implements OnInit {
                 nome: 'Cesar Suarez',
                 titulo: 'RxJS 101',
                 desc: 'La idea de la charla es mostrar las bondades de la programa reactiva en Javascript usando  RxJS y algunos de los operadores más utiles que podrian usar en sus proyectos',
-                imagem: 'https://pbs.twimg.com/profile_images/1028837466340352000/vSHCLp8E_400x400.jpg'
+                imagem: 'https://pbs.twimg.com/profile_images/1028837466340352000/vSHCLp8E_400x400.jpg',
+                slides: 'https://drive.google.com/file/d/1zqQQK9IJKGf1uMozQHxqRZX_f6BRf3K1/view?usp=sharing',
+                video: 'https://youtu.be/778pp-EZBCg?t=372'
             },
             {
                 dia: 'Miercoles',
@@ -67,7 +69,9 @@ export class SectionAgendaComponent implements OnInit {
                 nome: 'Jhonatan Giraldo',
                 titulo: 'Mastering web components: Without any framework',
                 desc: "Let's figured out what we can do with the new web components",
-                imagem: 'https://avatars2.githubusercontent.com/u/6934447?s=460&v=4'
+                imagem: 'https://avatars2.githubusercontent.com/u/6934447?s=460&v=4',
+                slides: 'https://drive.google.com/file/d/1zqQQK9IJKGf1uMozQHxqRZX_f6BRf3K1/view?usp=sharing',
+                video: 'https://youtu.be/778pp-EZBCg?t=1946'
             },
             {
                 dia: 'Miercoles',
@@ -75,7 +79,9 @@ export class SectionAgendaComponent implements OnInit {
                 nome: 'Liz Parody',
                 titulo: 'Error Handling Best Practices',
                 desc: 'Every developer wants to write code that works. And a lot of times, chances of your program running as expected reduces to one thing: errors.',
-                imagem: '../../../../assets/img/lizParody.jpg'
+                imagem: '../../../../assets/img/lizParody.jpg',
+                slides: 'https://drive.google.com/file/d/1zqQQK9IJKGf1uMozQHxqRZX_f6BRf3K1/view?usp=sharing',
+                video: 'https://youtu.be/778pp-EZBCg?t=4500'
             },
             {
                 dia: 'Miercoles',
@@ -83,7 +89,9 @@ export class SectionAgendaComponent implements OnInit {
                 nome: 'Santiago Angee',
                 titulo: 'How to implement data science projects in the real world',
                 desc: 'Lecciones aprendidas de tres casos de uso en la implementación de grandes proyectos de datos y análisis para el sector público y privado.',
-                imagem: 'https://media.licdn.com/dms/image/C4E03AQHaatAfDs50yg/profile-displayphoto-shrink_800_800/0?e=1568246400&v=beta&t=Q_98s7WCThknbFP7X-_uuMqefTBNViRkgruDSOwv1Og'
+                imagem: 'https://media.licdn.com/dms/image/C4E03AQHaatAfDs50yg/profile-displayphoto-shrink_800_800/0?e=1568246400&v=beta&t=Q_98s7WCThknbFP7X-_uuMqefTBNViRkgruDSOwv1Og',
+                slides: 'https://drive.google.com/file/d/1zqQQK9IJKGf1uMozQHxqRZX_f6BRf3K1/view?usp=sharing',
+                video: 'https://youtu.be/778pp-EZBCg?t=6005'
 
             },
             {
