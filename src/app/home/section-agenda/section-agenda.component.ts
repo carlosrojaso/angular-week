@@ -20,7 +20,7 @@ export class SectionAgendaComponent implements OnInit {
                 titulo: 'Concurrencia en JS: Porqué tu "setTimeout" te está mintiendo',
                 desc: 'El tema principal es comprender el funcionamiento basico del modelo de concurrencia de JS. Entender conceptos como el stack, event loop, event queue y event job,  para que lo usan los motores de JS y con que se comen. Tambien se busca aclarar un mal entendimiento de metodos asincronicos como los "setTimeout" y demás.',
                 imagem: 'https://avatars2.githubusercontent.com/u/22488812?s=460&v=4',
-                slides: 'https://drive.google.com/file/d/1Xba53g9VCFDlf4fx-Tadm2uEUR2HxANS/view?usp=sharing',
+                slides: 'http://bit.ly/2Mzuh8H',
                 video: 'https://youtu.be/EIu9MVlgbp0?t=46'
             },
             {
@@ -30,7 +30,7 @@ export class SectionAgendaComponent implements OnInit {
                 titulo: 'Implementando MapReduce con Web Workers',
                 desc: 'En esta charla vamos a ver el uso de Web Workers para optimizar nuestro trabajo con Javascript fuera del Single Thread Y aplicar técnicas de computación distribuida (mapreduce) con ellos.',
                 imagem: '../../../assets/img/sebastian.jpg',
-                slides: 'https://drive.google.com/file/d/1Xba53g9VCFDlf4fx-Tadm2uEUR2HxANS/view?usp=sharing',
+                slides: 'http://bit.ly/2Mzuh8H',
                 video: 'https://youtu.be/EIu9MVlgbp0?t=1132'
             },
             {
@@ -40,7 +40,7 @@ export class SectionAgendaComponent implements OnInit {
                 titulo: 'Programación Funcional',
                 desc: 'Pasaremos por la definición de algunos conceptos de la programación funcional hasta explorar cómo se relacionan con las buenas prácticas del desarrollo.',
                 imagem: 'https://avatars2.githubusercontent.com/u/22626905?s=460&v=4',
-                slides: 'https://drive.google.com/file/d/1Xba53g9VCFDlf4fx-Tadm2uEUR2HxANS/view?usp=sharing',
+                slides: 'http://bit.ly/2Mzuh8H',
                 video: 'https://youtu.be/EIu9MVlgbp0?t=3966'
             },
             {
@@ -50,7 +50,7 @@ export class SectionAgendaComponent implements OnInit {
                 titulo: "Google Cloud Platform Big Data Tools",
                 desc: 'Cuales son las herramientas orientadas a Big Data que podemos encontrar en la Nube de Google.',
                 imagem: 'https://pbs.twimg.com/profile_images/1055300540912074752/Ar7V9bTV_400x400.jpg',
-                slides: 'https://drive.google.com/file/d/1Xba53g9VCFDlf4fx-Tadm2uEUR2HxANS/view?usp=sharing',
+                slides: 'http://bit.ly/2Mzuh8H',
                 video: 'https://youtu.be/EIu9MVlgbp0?t=5284'
             },
             {
@@ -60,7 +60,7 @@ export class SectionAgendaComponent implements OnInit {
                 titulo: 'RxJS 101',
                 desc: 'La idea de la charla es mostrar las bondades de la programa reactiva en Javascript usando  RxJS y algunos de los operadores más utiles que podrian usar en sus proyectos',
                 imagem: 'https://pbs.twimg.com/profile_images/1028837466340352000/vSHCLp8E_400x400.jpg',
-                slides: 'https://drive.google.com/file/d/1zqQQK9IJKGf1uMozQHxqRZX_f6BRf3K1/view?usp=sharing',
+                slides: 'http://bit.ly/334iTHO',
                 video: 'https://youtu.be/778pp-EZBCg?t=372'
             },
             {
@@ -70,7 +70,7 @@ export class SectionAgendaComponent implements OnInit {
                 titulo: 'Mastering web components: Without any framework',
                 desc: "Let's figured out what we can do with the new web components",
                 imagem: 'https://avatars2.githubusercontent.com/u/6934447?s=460&v=4',
-                slides: 'https://drive.google.com/file/d/1zqQQK9IJKGf1uMozQHxqRZX_f6BRf3K1/view?usp=sharing',
+                slides: 'http://bit.ly/334iTHO',
                 video: 'https://youtu.be/778pp-EZBCg?t=1946'
             },
             {
@@ -80,7 +80,7 @@ export class SectionAgendaComponent implements OnInit {
                 titulo: 'Error Handling Best Practices',
                 desc: 'Every developer wants to write code that works. And a lot of times, chances of your program running as expected reduces to one thing: errors.',
                 imagem: '../../../../assets/img/lizParody.jpg',
-                slides: 'https://drive.google.com/file/d/1zqQQK9IJKGf1uMozQHxqRZX_f6BRf3K1/view?usp=sharing',
+                slides: 'http://bit.ly/334iTHO',
                 video: 'https://youtu.be/778pp-EZBCg?t=4500'
             },
             {
@@ -90,7 +90,7 @@ export class SectionAgendaComponent implements OnInit {
                 titulo: 'How to implement data science projects in the real world',
                 desc: 'Lecciones aprendidas de tres casos de uso en la implementación de grandes proyectos de datos y análisis para el sector público y privado.',
                 imagem: 'https://media.licdn.com/dms/image/C4E03AQHaatAfDs50yg/profile-displayphoto-shrink_800_800/0?e=1568246400&v=beta&t=Q_98s7WCThknbFP7X-_uuMqefTBNViRkgruDSOwv1Og',
-                slides: 'https://drive.google.com/file/d/1zqQQK9IJKGf1uMozQHxqRZX_f6BRf3K1/view?usp=sharing',
+                slides: 'http://bit.ly/334iTHO',
                 video: 'https://youtu.be/778pp-EZBCg?t=6005'
 
             },
@@ -100,7 +100,8 @@ export class SectionAgendaComponent implements OnInit {
                 nome: 'Maria Giraldo',
                 titulo: 'Redux Saga for handle asynchronous requests in react',
                 desc: 'Redux Saga Middleware permite controlar el flujo de operaciones que se realizan mediante la activación de eventos, en nuestras aplicaciones con redux, haciendo uso de las funciones generadoras de ES6,  con las cuales podemos ejecutar procesos asíncronos de manera "secuencial". En esta charla vamos a conocer cómo trabajar con funciones generadoras y los fundamentos de Redux Saga para aplicaciones con react.',
-                imagem: 'https://pbs.twimg.com/profile_images/451152111603318784/xEAEpNhy_400x400.jpeg'
+                imagem: 'https://pbs.twimg.com/profile_images/451152111603318784/xEAEpNhy_400x400.jpeg',
+                slides: 'http://bit.ly/2KdBbPG'
             },
             {
                 dia: 'Jueves',
@@ -108,7 +109,8 @@ export class SectionAgendaComponent implements OnInit {
                 nome: 'Sergio Valencia',
                 titulo: 'Asincronismos en JS',
                 desc: "Aprende todos los distintos caminos que nos da JS para manejar tareas asincronicas.",
-                imagem: 'https://pbs.twimg.com/profile_images/1002982260633718784/NxIQNR6L_400x400.jpg'
+                imagem: 'https://pbs.twimg.com/profile_images/1002982260633718784/NxIQNR6L_400x400.jpg',
+                slides: 'http://bit.ly/2KdBbPG'
             },
             {
                 dia: 'Jueves',
@@ -116,7 +118,8 @@ export class SectionAgendaComponent implements OnInit {
                 nome: 'Jose Luis Sepulveda',
                 titulo: 'Seeking IoT potential through 5g networks and Big Data',
                 desc: 'Seguramente los términos como iot (Internet of things), Smart Cities o self-driving cars suenan familiares, pero ¿has escuchado algo sobre las redes inalámbricas de quinta generación (5G)? , En esta charla se expondrán las características básicas de las redes 5G, sus aplicaciones y el conjunto de tecnologías emergentes que habilitará con su implementación.',
-                imagem: 'https://media.licdn.com/dms/image/C4E03AQGTcpM7mQrbOQ/profile-displayphoto-shrink_800_800/0?e=1568246400&v=beta&t=JpeFtTxUt1gNx-Z-YwvjRjBswO5A-MfW3EA7YdIBQ8c'
+                imagem: 'https://media.licdn.com/dms/image/C4E03AQGTcpM7mQrbOQ/profile-displayphoto-shrink_800_800/0?e=1568246400&v=beta&t=JpeFtTxUt1gNx-Z-YwvjRjBswO5A-MfW3EA7YdIBQ8c',
+                slides: 'http://bit.ly/2KdBbPG'
             },
             {
                 dia: 'Jueves',
@@ -124,8 +127,8 @@ export class SectionAgendaComponent implements OnInit {
                 nome: 'Hilder Umana',
                 titulo: 'Data Visualization: Tell stories with your data',
                 desc: 'La importancia de identificar qué tipo de gráfico utilizar para contar historias con los datos y así generar valor a los usuarios.',
-                imagem: 'https://media.licdn.com/dms/image/C5603AQES0jyuwDLjkA/profile-displayphoto-shrink_800_800/0?e=1568246400&v=beta&t=0RnLek0grfu4s0wRs32Z741oKrdyWzbZ0oqFqCelE4s'
-
+                imagem: 'https://media.licdn.com/dms/image/C5603AQES0jyuwDLjkA/profile-displayphoto-shrink_800_800/0?e=1568246400&v=beta&t=0RnLek0grfu4s0wRs32Z741oKrdyWzbZ0oqFqCelE4s',
+                slides: 'http://bit.ly/2KdBbPG'
             },
             {
                 dia: 'Viernes',
