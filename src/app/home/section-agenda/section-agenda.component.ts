@@ -101,7 +101,8 @@ export class SectionAgendaComponent implements OnInit {
                 titulo: 'Redux Saga for handle asynchronous requests in react',
                 desc: 'Redux Saga Middleware permite controlar el flujo de operaciones que se realizan mediante la activación de eventos, en nuestras aplicaciones con redux, haciendo uso de las funciones generadoras de ES6,  con las cuales podemos ejecutar procesos asíncronos de manera "secuencial". En esta charla vamos a conocer cómo trabajar con funciones generadoras y los fundamentos de Redux Saga para aplicaciones con react.',
                 imagem: 'https://pbs.twimg.com/profile_images/451152111603318784/xEAEpNhy_400x400.jpeg',
-                slides: 'http://bit.ly/2KdBbPG'
+                slides: 'http://bit.ly/2KdBbPG',
+                video: 'https://youtu.be/tBKf9KMSh4A'
             },
             {
                 dia: 'Jueves',
@@ -110,7 +111,8 @@ export class SectionAgendaComponent implements OnInit {
                 titulo: 'Asincronismos en JS',
                 desc: "Aprende todos los distintos caminos que nos da JS para manejar tareas asincronicas.",
                 imagem: 'https://pbs.twimg.com/profile_images/1002982260633718784/NxIQNR6L_400x400.jpg',
-                slides: 'http://bit.ly/2KdBbPG'
+                slides: 'http://bit.ly/2KdBbPG',
+                video: 'https://youtu.be/tBKf9KMSh4A'
             },
             {
                 dia: 'Jueves',
@@ -119,7 +121,8 @@ export class SectionAgendaComponent implements OnInit {
                 titulo: 'Seeking IoT potential through 5g networks and Big Data',
                 desc: 'Seguramente los términos como iot (Internet of things), Smart Cities o self-driving cars suenan familiares, pero ¿has escuchado algo sobre las redes inalámbricas de quinta generación (5G)? , En esta charla se expondrán las características básicas de las redes 5G, sus aplicaciones y el conjunto de tecnologías emergentes que habilitará con su implementación.',
                 imagem: 'https://media.licdn.com/dms/image/C4E03AQGTcpM7mQrbOQ/profile-displayphoto-shrink_800_800/0?e=1568246400&v=beta&t=JpeFtTxUt1gNx-Z-YwvjRjBswO5A-MfW3EA7YdIBQ8c',
-                slides: 'http://bit.ly/2KdBbPG'
+                slides: 'http://bit.ly/2KdBbPG',
+                video: 'https://youtu.be/tBKf9KMSh4A'
             },
             {
                 dia: 'Jueves',
@@ -128,7 +131,8 @@ export class SectionAgendaComponent implements OnInit {
                 titulo: 'Data Visualization: Tell stories with your data',
                 desc: 'La importancia de identificar qué tipo de gráfico utilizar para contar historias con los datos y así generar valor a los usuarios.',
                 imagem: 'https://media.licdn.com/dms/image/C5603AQES0jyuwDLjkA/profile-displayphoto-shrink_800_800/0?e=1568246400&v=beta&t=0RnLek0grfu4s0wRs32Z741oKrdyWzbZ0oqFqCelE4s',
-                slides: 'http://bit.ly/2KdBbPG'
+                slides: 'http://bit.ly/2KdBbPG',
+                video: 'https://youtu.be/tBKf9KMSh4A'
             },
             {
                 dia: 'Viernes',
@@ -136,7 +140,8 @@ export class SectionAgendaComponent implements OnInit {
                 nome: 'Andrea Cordoba',
                 titulo: 'Entendiendo los Service Workers',
                 desc: 'Las aplicaciones Web progresivas (PWA) permiten funciones importantes como la visualización fuera de línea, la navegación responsive y las notificaciones automáticas, lo que reduce la brecha entre las experiencias móviles y Web. En esta charla nos enfocaremos en una de las características core de las PWA, Service Worker; vamos a ver cómo funcionan, características y algunos ejemplos.',
-                imagem: '../../../../assets/img/andrea-cordoba.jpg'
+                imagem: '../../../../assets/img/andrea-cordoba.jpg',
+                slides: 'http://bit.ly/2YFgcNA'
             },
             {
                 dia: 'Viernes',
@@ -144,7 +149,8 @@ export class SectionAgendaComponent implements OnInit {
                 nome: 'Johann Paul Echavarría Zapata',
                 titulo: 'La sabiduría de las guías de estilo',
                 desc: "La sabiduría de las guías de estilo. Lo que se aprende leyendo los fundamentos de las guías de estilo de los gigantes de la industria.",
-                imagem: 'https://pbs.twimg.com/profile_images/954018981244997632/J_3DPptq_400x400.jpg'
+                imagem: 'https://pbs.twimg.com/profile_images/954018981244997632/J_3DPptq_400x400.jpg',
+                slides: 'http://bit.ly/2YFgcNA'
             },
             {
                 dia: 'Viernes',
@@ -152,7 +158,8 @@ export class SectionAgendaComponent implements OnInit {
                 nome: 'Lorena Correa Mejia',
                 titulo: 'Siguiente nivel en pruebas funcionales con Cypress',
                 desc: 'Cypress es una herrramienta para manejar pruebas funcionales en frameworks de JavaScript, React, Vue, Angular etc, logrando simular un usuario real y de esta manera podremos tener como desarrolladores  seguridad de lo que estamos entregando al cliente',
-                imagem: 'https://pbs.twimg.com/profile_images/1155548739521716225/Flvski7F_400x400.jpg'
+                imagem: 'https://pbs.twimg.com/profile_images/1155548739521716225/Flvski7F_400x400.jpg',
+                slides: 'http://bit.ly/2YFgcNA'
             },
             {
                 dia     : 'Viernes',
@@ -160,7 +167,8 @@ export class SectionAgendaComponent implements OnInit {
                 nome    : 'Cristian Moreno',
                 titulo  : 'Introducing JAMstack - What we talk about when we talk about modern web tools',
                 desc    : 'Look at today\'s static sites. Thanks to modern browsers, JavaScript, third-party APIs, and Markup, they\'re anything but static. It\'s time for a new and better way to talk to developers, clients and each other about the work that we do. That way is the JAM stack. The JAM stack is more than just a name change. It\'s an acknowledgment that the way we develop for the web is changing. Developers are moving away from legacy development workflows and databases to new ones built around Git and the API economy. Why? Because JAM stack development delivers better performance, higher security, lower cost of scaling and better developer experience.',
-                imagem  : 'https://pbs.twimg.com/profile_images/1105331026027573248/drFcWUvd_400x400.jpg'
+                imagem  : 'https://pbs.twimg.com/profile_images/1105331026027573248/drFcWUvd_400x400.jpg',
+                slides  : 'http://bit.ly/2YFgcNA'
             }
         ];
     }
