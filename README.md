@@ -11,3 +11,7 @@ Para ejecutar este proyecto usted necesita tener instalado en su máquina el ** 
 - Entre en la carpeta `cd angular-week`
 - Instale las dependencias `npm install`
 - Gira el servidor de prueba `ng serve -o '
+
+## Lista de Forks.
+
+[NodeWeek](https://github.com/andresburns/javascript-week)
