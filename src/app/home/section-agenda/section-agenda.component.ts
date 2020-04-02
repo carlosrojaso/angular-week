@@ -97,8 +97,8 @@ export class SectionAgendaComponent implements OnInit {
                 dia: 'Viernes',
                 hora: '07:00 pm - 7:00pm',
                 nome: 'Sebastian Gomez',
-                titulo: 'TBD',
-                desc: 'TBD',
+                titulo: 'Manejando queues con Bull.js',
+                desc: 'Aprende a manejar facilmente queues y concurrencia con bull.js',
                 imagem: '../../../assets/img/sebastian.jpg'
             },
             {
