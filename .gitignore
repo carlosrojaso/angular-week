@@ -42,4 +42,7 @@ Thumbs.db
 
 /.history
 
+#firebase
+.firebaserc
+firebase.json
 firebase.config.ts

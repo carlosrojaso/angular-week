@@ -1,6 +1,0 @@
-{
-  "projects": {
-    "default": "angularweek",
-    "prod": "js-week"
-  }
-}
