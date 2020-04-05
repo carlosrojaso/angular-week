@@ -47,11 +47,11 @@ export const agenda =
     },
     {
         dia: 'Jueves',
-        hora: '07:00pm - 7:30pm',
-        nome: 'Nicolas Molina Monroy',
-        titulo: 'Acelera la velocidad de navegación de tu Aplicación Angular',
-        desc: 'En esta charla vas a aprender a como acelerar la experiencia de navegación de tus usuarios en aplicaciones Angular.',
-        imagem: '../../../../assets/img/nicolas-monroy.jpg'
+        hora: '07:00 pm - 7:00pm',
+        nome: 'Sebastian Gomez',
+        titulo: 'Manejando queues con Bull.js',
+        desc: 'Aprende a manejar facilmente queues y concurrencia con bull.js',
+        imagem: '../../../assets/img/sebastian.jpg'
     },
     {
         dia: 'Jueves',
@@ -80,7 +80,7 @@ export const agenda =
         imagem: '../../../../assets/img/samuel-burbano.jpg'
     },
     {
-        dia: 'Miercoles',
+        dia: 'Jueves',
         hora: '09:00pm - 9:30pm',
         nome: 'Mayra Rodriguez',
         titulo: 'Promesas vs Observable',
@@ -90,11 +90,11 @@ export const agenda =
     },
     {
         dia: 'Viernes',
-        hora: '07:00 pm - 7:00pm',
-        nome: 'Sebastian Gomez',
-        titulo: 'Manejando queues con Bull.js',
-        desc: 'Aprende a manejar facilmente queues y concurrencia con bull.js',
-        imagem: '../../../assets/img/sebastian.jpg'
+        hora: '07:00pm - 7:30pm',
+        nome: 'Nicolas Molina Monroy',
+        titulo: 'Acelera la velocidad de navegación de tu Aplicación Angular',
+        desc: 'En esta charla vas a aprender a como acelerar la experiencia de navegación de tus usuarios en aplicaciones Angular.',
+        imagem: '../../../../assets/img/nicolas-monroy.jpg'
     },
     {
         dia: 'Viernes',
@@ -193,15 +193,17 @@ export const speakers = [
     },
 
     {
-        nome: 'Nicolas',
-        sobrenome: 'Molina',
-        imagem: '../../../../assets/img/nicolas-monroy.jpg',
+        nome: 'Sebastian',
+        sobrenome: 'Gomez',
+        imagem: '../../../../assets/img/sebastian.jpg',
         redes: {
-            twitter : 'https://twitter.com/nicobytes'
+            twitter : 'https://twitter.com/sebasgojs'
         },
-        bio: `I am a GDE (Google Developer Expert) in Web Technologies and Angular. I love to be a developer and to create software.
-        Currently, I'm a Tech leader and work mainly in single page applications with Angular and Ionic for frontend,
-        NodeJs /Python for web services with GraphQL.`,
+        bio         : `Mi nombre es Sebastián Gómez, soy Google Developer Expert in Web Technologies,
+        estudié ingeniería de sistemas e Informática y una maestría en Ingeniería de Sistemas de la Universidad Nacional
+        de Colombia. Actualmente trabajo en Globant como arquitecto de Web UI con énfasis en aplicaciones híbridas y
+        cross compiladas. Soy el organizador del Google Developers Group de Medellín, así que contactame si quieres dar
+        alguna charla o participar actuamente de esta comunidad.`
     },
 
     {
@@ -246,17 +248,15 @@ export const speakers = [
     },
 
     {
-        nome: 'Sebastian',
-        sobrenome: 'Gomez',
-        imagem: '../../../../assets/img/sebastian.jpg',
+        nome: 'Nicolas',
+        sobrenome: 'Molina',
+        imagem: '../../../../assets/img/nicolas-monroy.jpg',
         redes: {
-            twitter : 'https://twitter.com/sebasgojs'
+            twitter : 'https://twitter.com/nicobytes'
         },
-        bio         : `Mi nombre es Sebastián Gómez, soy Google Developer Expert in Web Technologies,
-        estudié ingeniería de sistemas e Informática y una maestría en Ingeniería de Sistemas de la Universidad Nacional
-        de Colombia. Actualmente trabajo en Globant como arquitecto de Web UI con énfasis en aplicaciones híbridas y
-        cross compiladas. Soy el organizador del Google Developers Group de Medellín, así que contactame si quieres dar
-        alguna charla o participar actuamente de esta comunidad.`
+        bio: `I am a GDE (Google Developer Expert) in Web Technologies and Angular. I love to be a developer and to create software.
+        Currently, I'm a Tech leader and work mainly in single page applications with Angular and Ionic for frontend,
+        NodeJs /Python for web services with GraphQL.`,
     },
 
     {
