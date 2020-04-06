@@ -2,7 +2,7 @@ export const agenda =
 [
     {
         dia: 'Miercoles',
-        hora: '07:00pm - 07:30pm',
+        hora: '07:00pm - 07:30pm GMT -5',
         nome: 'Oscar Barajas',
         titulo: '¿Qué es Svelte.js?',
         desc: `Svelte un nuevo framework de JavaScript que nos permite construir interfaces de
@@ -12,7 +12,7 @@ export const agenda =
     },
     {
         dia: 'Miercoles',
-        hora: '07:30pm - 8:00pm',
+        hora: '07:30pm - 8:00pm GMT -5',
         nome: 'Julián Duque',
         titulo: 'Aprendamos sobre Debugging en Node.js',
         desc: `En esta charla vamos a explorar las diferentes herramientas y técnicas para
@@ -21,7 +21,7 @@ export const agenda =
     },
     {
         dia: 'Miercoles',
-        hora: '08:00pm - 8:30pm',
+        hora: '08:00pm - 8:30pm GMT -5',
         nome: 'Yeison Daza',
         titulo: 'Design token en CSS',
         desc: `Voy a hablar sobre la evolución en los enfoques para escribir css donde uno de los
@@ -30,7 +30,7 @@ export const agenda =
     },
     {
         dia: 'Miercoles',
-        hora: '08:30pm - 9:00pm',
+        hora: '08:30pm - 9:00pm GMT -5',
         nome: 'Jorge Cano',
         titulo: 'Reactive Man: la verdadera reactividad',
         desc: `Para ser un maestro pokemon tenemos que atraparlos a todos, para ser una maestro en RxJS tenemos que llamar a reactive man,
@@ -39,7 +39,7 @@ export const agenda =
     },
     {
         dia: 'Miercoles',
-        hora: '09:00pm - 9:30pm',
+        hora: '09:00pm - 9:30pm GMT -5',
         nome: 'Maria Alejandra Giraldo',
         titulo: 'NestJS, Como sacarle jugo al back-end siendo front-end',
         desc: 'En en esta charla vamos a aprender como los conocimientos de front-end se pueden fusionar en el back-end',
@@ -47,7 +47,7 @@ export const agenda =
     },
     {
         dia: 'Jueves',
-        hora: '07:00 pm - 7:00pm',
+        hora: '07:00 pm - 7:00pm GMT -5',
         nome: 'Sebastian Gomez',
         titulo: 'Manejando queues con Bull.js',
         desc: 'Aprende a manejar facilmente queues y concurrencia con bull.js',
@@ -55,7 +55,7 @@ export const agenda =
     },
     {
         dia: 'Jueves',
-        hora: '07:30pm - 8:00pm',
+        hora: '07:30pm - 8:00pm GMT -5',
         nome: 'Sergio Valencia',
         titulo: 'Performance en JS',
         desc: 'Aprende sobre buenas prácticas que te ayudará a mejorar el performance de tu codigo',
@@ -63,7 +63,7 @@ export const agenda =
     },
     {
         dia: 'Jueves',
-        hora: '08:00pm - 8:30pm',
+        hora: '08:00pm - 8:30pm GMT -5',
         nome: 'Fabio Cortés',
         titulo: 'WebXR: La nueva generación de experiencias inmersivas en la web',
         desc: `Cuando hablamos de experiencias inmerivas en la web nos referimos a todo el espectro de aplicaciones
@@ -72,7 +72,7 @@ export const agenda =
     },
     {
         dia: 'Jueves',
-        hora: '08:30pm - 9:00pm',
+        hora: '08:30pm - 9:00pm GMT -5',
         nome: 'Samuel Burbano',
         titulo: 'Vue 3.0 - Composition API',
         desc: `Veamos la nueva Composition API propuesta para la próxima versión de Vue, como ayuda a mejorar el desarrollo
@@ -81,7 +81,7 @@ export const agenda =
     },
     {
         dia: 'Jueves',
-        hora: '09:00pm - 9:30pm',
+        hora: '09:00pm - 9:30pm GMT -5',
         nome: 'Mayra Rodriguez',
         titulo: 'Promesas vs Observable',
         desc: `¿Cuándo usar promesas? ¿Cuándo usar Observables? haremos una comparación entre ambos y daremos ejemplos
@@ -90,7 +90,7 @@ export const agenda =
     },
     {
         dia: 'Viernes',
-        hora: '07:00pm - 7:30pm',
+        hora: '07:00pm - 7:30pm GMT -5',
         nome: 'Nicolas Molina Monroy',
         titulo: 'Acelera la velocidad de navegación de tu Aplicación Angular',
         desc: 'En esta charla vas a aprender a como acelerar la experiencia de navegación de tus usuarios en aplicaciones Angular.',
@@ -98,7 +98,7 @@ export const agenda =
     },
     {
         dia: 'Viernes',
-        hora: '07:30pm - 8:00pm',
+        hora: '07:30pm - 8:00pm GMT -5',
         nome: 'Ricardo Chavarria',
         titulo: 'WebPack, ¿Cómo aprovecharlo al máximo?',
         desc: `En está pequeña charla daremos los primeros pasos con Webpack para conocer sus beneficios y como aprovechalos al máximo,
@@ -108,7 +108,7 @@ export const agenda =
     },
     {
         dia: 'Viernes',
-        hora: '08:00pm - 8:30pm',
+        hora: '08:00pm - 8:30pm GMT -5',
         nome: 'Paula Mazo',
         titulo: 'Docker para Front-ends',
         desc: 'Que cosas debes tener en cuenta para usar Docker con tu proyecto en JS',
@@ -116,7 +116,7 @@ export const agenda =
     },
     {
         dia     : 'Viernes',
-        hora    : '8:30pm - 9:00pm',
+        hora    : '8:30pm - 9:00pm GMT -5',
         nome    : 'Vanessa Aristizabal',
         titulo  : 'Meeseeks de JavaScript',
         desc    : `Los Meeseeks , son criaturas que sirven a un propósito en particular y hay algunas características de JavaScript
@@ -126,7 +126,7 @@ export const agenda =
     },
     {
         dia: 'Viernes',
-        hora: '09:00pm - 9:30pm',
+        hora: '09:00pm - 9:30pm GMT -5',
         nome: 'Jesús Salvador Rodríguez Cardiel',
         titulo: 'JS ha cambiado mi vida',
         desc: 'Como JS revolucionó mi forma de trabajo',
