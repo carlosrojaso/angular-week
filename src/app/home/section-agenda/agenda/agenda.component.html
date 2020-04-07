@@ -13,7 +13,7 @@
             <div class="palestra">
                 <img [src]="trust(agenda.imagem)" alt="{{agenda.nome}}" class="foto">
                 <div class="dados">
-                    <strong>{{agenda.dia}}- {{agenda.hora}}</strong>
+                    <strong>{{agenda.dia}} - {{agenda.startDate | date:'HH:mm'}} - {{agenda.endDate | date:'HH:mm'}}</strong>
                     <p><i>{{agenda.titulo}}</i></p>
                     <p>{{ (agenda.desc.length > 182) ? (agenda.desc | slice:0:182)+'..':(agenda.desc) }}</p>
                     <a *ngIf="agenda.slides" href="{{agenda.slides}}" target="_blank">Slides</a> &nbsp; <a *ngIf="agenda.repo" href="{{agenda.repo}}" target="_blank">Repo</a> &nbsp; <a *ngIf="agenda.video" href="{{agenda.video}}" target="_blank">Video</a>

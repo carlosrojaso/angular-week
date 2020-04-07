@@ -2,6 +2,8 @@ export const agenda =
 [
     {
         dia: 'Miercoles',
+        startDate: 1586390400000,
+        endDate: 1586392200000,
         hora: '07:00pm - 07:30pm GMT -5',
         nome: 'Oscar Barajas',
         titulo: '¿Qué es Svelte.js?',
@@ -12,6 +14,8 @@ export const agenda =
     },
     {
         dia: 'Miercoles',
+        startDate: 1586392200000,
+        endDate: 1586394000000,
         hora: '07:30pm - 8:00pm GMT -5',
         nome: 'Julián Duque',
         titulo: 'Aprendamos sobre Debugging en Node.js',
@@ -21,6 +25,8 @@ export const agenda =
     },
     {
         dia: 'Miercoles',
+        startDate: 1586394000000,
+        endDate: 1586395800000,
         hora: '08:00pm - 8:30pm GMT -5',
         nome: 'Yeison Daza',
         titulo: 'Design token en CSS',
@@ -30,6 +36,8 @@ export const agenda =
     },
     {
         dia: 'Miercoles',
+        startDate: 1586395800000,
+        endDate: 1586397600000,
         hora: '08:30pm - 9:00pm GMT -5',
         nome: 'Jorge Cano',
         titulo: 'Reactive Man: la verdadera reactividad',
@@ -39,6 +47,8 @@ export const agenda =
     },
     {
         dia: 'Miercoles',
+        startDate: 1586397600000,
+        endDate: 1586399400000,
         hora: '09:00pm - 9:30pm GMT -5',
         nome: 'Maria Alejandra Giraldo',
         titulo: 'NestJS, Como sacarle jugo al back-end siendo front-end',
@@ -47,6 +57,8 @@ export const agenda =
     },
     {
         dia: 'Jueves',
+        startDate: 1586476800000,
+        endDate: 1586478600000,
         hora: '07:00 pm - 7:00pm GMT -5',
         nome: 'Sebastian Gomez',
         titulo: 'Manejando queues con Bull.js',
@@ -55,6 +67,8 @@ export const agenda =
     },
     {
         dia: 'Jueves',
+        startDate: 1586478600000,
+        endDate: 1586480400000,
         hora: '07:30pm - 8:00pm GMT -5',
         nome: 'Sergio Valencia',
         titulo: 'Performance en JS',
@@ -63,6 +77,8 @@ export const agenda =
     },
     {
         dia: 'Jueves',
+        startDate: 1586480400000,
+        endDate: 1586482200000,
         hora: '08:00pm - 8:30pm GMT -5',
         nome: 'Fabio Cortés',
         titulo: 'WebXR: La nueva generación de experiencias inmersivas en la web',
@@ -72,6 +88,8 @@ export const agenda =
     },
     {
         dia: 'Jueves',
+        startDate: 1586482200000,
+        endDate: 1586484000000,
         hora: '08:30pm - 9:00pm GMT -5',
         nome: 'Samuel Burbano',
         titulo: 'Vue 3.0 - Composition API',
@@ -81,6 +99,8 @@ export const agenda =
     },
     {
         dia: 'Jueves',
+        startDate: 1586484000000,
+        endDate: 1586485800000,
         hora: '09:00pm - 9:30pm GMT -5',
         nome: 'Mayra Rodriguez',
         titulo: 'Promesas vs Observable',
@@ -90,6 +110,8 @@ export const agenda =
     },
     {
         dia: 'Viernes',
+        startDate: 1586563200000,
+        endDate: 1586565000000,
         hora: '07:00pm - 7:30pm GMT -5',
         nome: 'Nicolas Molina Monroy',
         titulo: 'Acelera la velocidad de navegación de tu Aplicación Angular',
@@ -98,6 +120,8 @@ export const agenda =
     },
     {
         dia: 'Viernes',
+        startDate: 1586565000000,
+        endDate: 1586566800000,
         hora: '07:30pm - 8:00pm GMT -5',
         nome: 'Ricardo Chavarria',
         titulo: 'WebPack, ¿Cómo aprovecharlo al máximo?',
@@ -108,6 +132,8 @@ export const agenda =
     },
     {
         dia: 'Viernes',
+        startDate: 1586566800000,
+        endDate: 1586568600000,
         hora: '08:00pm - 8:30pm GMT -5',
         nome: 'Paula Mazo',
         titulo: 'Docker para Front-ends',
@@ -115,17 +141,21 @@ export const agenda =
         imagem: '../../../assets/img/paula-mazo.jpg'
     },
     {
-        dia     : 'Viernes',
-        hora    : '8:30pm - 9:00pm GMT -5',
-        nome    : 'Vanessa Aristizabal',
-        titulo  : 'Meeseeks de JavaScript',
-        desc    : `Los Meeseeks , son criaturas que sirven a un propósito en particular y hay algunas características de JavaScript
+        dia: 'Viernes',
+        startDate: 1586568600000,
+        endDate: 1586570400000,
+        hora: '8:30pm - 9:00pm GMT -5',
+        nome: 'Vanessa Aristizabal',
+        titulo: 'Meeseeks de JavaScript',
+        desc: `Los Meeseeks , son criaturas que sirven a un propósito en particular y hay algunas características de JavaScript
         que podríamos llamar Meeseeks, que nos facilitan mucho la creación de nuestros código y en esta charla quiero darles a conocer
         algunos de ellos.`,
         imagem: '../../../assets/img/vanessa.jpg'
     },
     {
         dia: 'Viernes',
+        startDate: 1586570400000,
+        endDate: 1586572200000,
         hora: '09:00pm - 9:30pm GMT -5',
         nome: 'Jesús Salvador Rodríguez Cardiel',
         titulo: 'JS ha cambiado mi vida',
