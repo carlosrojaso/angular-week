@@ -61,8 +61,15 @@ export const agenda =
         endDate: 1586478600000,
         hora: '07:00 pm - 7:00pm GMT -5',
         nome: 'Sebastian Gomez',
-        titulo: 'Manejando queues con Bull.js',
-        desc: 'Aprende a manejar facilmente queues y concurrencia con bull.js',
+        titulo: 'Manejando Colas, Concurrencia y asincronismo con BullJS',
+        desc: `Es común en NodeJS encontrar requerimientos sobre funciones y su prioridad de ejecución.
+        Con BullJS un sistema de manejo de colas, podemos solucionar esto.
+        Por ejemplo usar funciones en javascript que deban ejecutarse una cantidad específica de veces,
+        poder volver a ejecutarse en caso de fallar o una o varias veces y priorizar estas
+        funciones para saber cual ejecutar primero, entre muchas otras cosas. Es allí donde
+        muchos sistemas de manejo de colas para NodeJS empiezan a tomar importancia.
+        Sin embargo en esta charla vamos a hablar de una en particular llamada BullJS.
+        https://github.com/seagomezar/learning-bulljs`,
         imagem: '../../../assets/img/sebastian.jpg'
     },
     {
