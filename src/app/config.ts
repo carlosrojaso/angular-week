@@ -63,7 +63,7 @@ export const agenda =
         nome: 'Sebastian Gomez',
         titulo: 'Manejando Colas, Concurrencia y asincronismo con BullJS',
         desc: `Es común en NodeJS encontrar requerimientos sobre funciones y su prioridad de ejecución.
-        Con BullJS un sistema de manejo de colas, podemos solucionar esto.
+        BullJS es un sistema de manejo de colas con el cual podemos solucionar esto.
         Por ejemplo usar funciones en javascript que deban ejecutarse una cantidad específica de veces,
         poder volver a ejecutarse en caso de fallar o una o varias veces y priorizar estas
         funciones para saber cual ejecutar primero, entre muchas otras cosas. Es allí donde
