@@ -70,7 +70,7 @@ export const agenda =
         muchos sistemas de manejo de colas para NodeJS empiezan a tomar importancia.
         Sin embargo en esta charla vamos a hablar de una en particular llamada BullJS.
         https://github.com/seagomezar/learning-bulljs`,
-        imagem: '../../../assets/img/sebastian.jpg'
+        imagem: 'assets/img/sebastian.jpg'
     },
     {
         dia: 'Jueves',
@@ -135,7 +135,7 @@ export const agenda =
         desc: `En está pequeña charla daremos los primeros pasos con Webpack para conocer sus beneficios y como aprovechalos al máximo,
         veremos cual es la necesidad de usarlo y tocaremos temas como Hot Reload, Minimización automática,
         Babel y otros temas interesantes de Webpack.`,
-        imagem: '../../../assets/img/ricardo-chavarria.jpg'
+        imagem: 'assets/img/ricardo-chavarria.jpg'
     },
     {
         dia: 'Viernes',
@@ -145,7 +145,7 @@ export const agenda =
         nome: 'Paula Mazo',
         titulo: 'Docker para Front-ends',
         desc: 'Que cosas debes tener en cuenta para usar Docker con tu proyecto en JS',
-        imagem: '../../../assets/img/paula-mazo.jpg'
+        imagem: 'assets/img/paula-mazo.jpg'
     },
     {
         dia: 'Viernes',
@@ -157,7 +157,7 @@ export const agenda =
         desc: `Los Meeseeks , son criaturas que sirven a un propósito en particular y hay algunas características de JavaScript
         que podríamos llamar Meeseeks, que nos facilitan mucho la creación de nuestros código y en esta charla quiero darles a conocer
         algunos de ellos.`,
-        imagem: '../../../assets/img/vanessa.jpg'
+        imagem: 'assets/img/vanessa.jpg'
     },
     {
         dia: 'Viernes',
@@ -167,7 +167,7 @@ export const agenda =
         nome: 'Jesús Salvador Rodríguez Cardiel',
         titulo: 'JS ha cambiado mi vida',
         desc: 'Como JS revolucionó mi forma de trabajo',
-        imagem: '../../../assets/img/jesus-salvador.jpg'
+        imagem: 'assets/img/jesus-salvador.jpg'
     }
 ];
 
@@ -299,7 +299,7 @@ export const speakers = [
     {
         nome: 'Ricardo',
         sobrenome: 'Chavarria',
-        imagem: '../../../assets/img/ricardo-chavarria.jpg',
+        imagem: 'assets/img/ricardo-chavarria.jpg',
         redes: {
             twitter : 'https://twitter.com/ricardo_chl',
         },
@@ -326,7 +326,7 @@ export const speakers = [
     {
         nome: 'Vanessa',
         sobrenome: 'Aristizabal',
-        imagem: '../../../assets/img/vanessa.jpg',
+        imagem: 'assets/img/vanessa.jpg',
         redes: {
             twitter : 'https://twitter.com/vanessamarely'
         },
@@ -338,7 +338,7 @@ export const speakers = [
     {
         nome        : 'Jesús',
         sobrenome   : 'Rodríguez',
-        imagem      : '../../../assets/img/jesus-salvador.jpg',
+        imagem      : 'assets/img/jesus-salvador.jpg',
         redes       : {
             twitter : 'https://twitter.com/GsusRodriguezC'
         },
