@@ -5,4 +5,5 @@ ng build --prod
 echo "Enviando a Firebase"
 firebase deploy --only hosting
 
-ng build --prod --output-path docs --base-href /javascript-week/
+#for github pages in docs
+#ng build --prod --output-path docs --base-href /javascript-week/

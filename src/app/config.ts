@@ -10,7 +10,7 @@ export const agenda =
         desc: `Svelte un nuevo framework de JavaScript que nos permite construir interfaces de
         usuario. Es considerado el nuevo competidor en la batalla de los frontends donde compiten
         React, Angular o Vue.`,
-        imagem: '../../../../assets/img/oscar-barajas.png'
+        imagem: 'assets/img/oscar-barajas.png'
     },
     {
         dia: 'Miercoles',
@@ -21,7 +21,7 @@ export const agenda =
         titulo: 'Aprendamos sobre Debugging en Node.js',
         desc: `En esta charla vamos a explorar las diferentes herramientas y técnicas para
         depurar aplicaciones JavaScript y Node.js`,
-        imagem: '../../../../assets/img/julian-duque.jpg'
+        imagem: 'assets/img/julian-duque.jpg'
     },
     {
         dia: 'Miercoles',
@@ -32,7 +32,7 @@ export const agenda =
         titulo: 'Design token en CSS',
         desc: `Voy a hablar sobre la evolución en los enfoques para escribir css donde uno de los
         mayores restos a sido mantener la consistencia, hasta llegar a hablar sobre design tokens`,
-        imagem: '../../../../assets/img/yeison-daza.jpg'
+        imagem: 'assets/img/yeison-daza.jpg'
     },
     {
         dia: 'Miercoles',
@@ -43,7 +43,7 @@ export const agenda =
         titulo: 'Reactive Man: la verdadera reactividad',
         desc: `Para ser un maestro pokemon tenemos que atraparlos a todos, para ser una maestro en RxJS tenemos que llamar a reactive man,
         el nos ayudara a entender nuestros poderes reactivos!`,
-        imagem: '../../../../assets/img/jorge-cano.jpg'
+        imagem: 'assets/img/jorge-cano.jpg'
     },
     {
         dia: 'Miercoles',
@@ -53,7 +53,7 @@ export const agenda =
         nome: 'Maria Alejandra Giraldo',
         titulo: 'NestJS, Como sacarle jugo al back-end siendo front-end',
         desc: 'En en esta charla vamos a aprender como los conocimientos de front-end se pueden fusionar en el back-end',
-        imagem: '../../../../assets/img/maleja-giraldo.jpg'
+        imagem: 'assets/img/maleja-giraldo.jpg'
     },
     {
         dia: 'Jueves',
@@ -80,7 +80,7 @@ export const agenda =
         nome: 'Sergio Valencia',
         titulo: 'Performance en JS',
         desc: 'Aprende sobre buenas prácticas que te ayudará a mejorar el performance de tu codigo',
-        imagem: '../../../../assets/img/sergio-valencia.jpg'
+        imagem: 'assets/img/sergio-valencia.jpg'
     },
     {
         dia: 'Jueves',
@@ -91,7 +91,7 @@ export const agenda =
         titulo: 'WebXR: La nueva generación de experiencias inmersivas en la web',
         desc: `Cuando hablamos de experiencias inmerivas en la web nos referimos a todo el espectro de aplicaciones
         que van desde el mundo real hasta la realidad virtual`,
-        imagem: '../../../../assets/img/fabio-cortes.jpg'
+        imagem: 'assets/img/fabio-cortes.jpg'
     },
     {
         dia: 'Jueves',
@@ -102,7 +102,7 @@ export const agenda =
         titulo: 'Vue 3.0 - Composition API',
         desc: `Veamos la nueva Composition API propuesta para la próxima versión de Vue, como ayuda a mejorar el desarrollo
         en Vue y la polémica que ha generado en los desarrolladores que usan y aman Vue`,
-        imagem: '../../../../assets/img/samuel-burbano.jpg'
+        imagem: 'assets/img/samuel-burbano.jpg'
     },
     {
         dia: 'Jueves',
@@ -113,7 +113,7 @@ export const agenda =
         titulo: 'Promesas vs Observable',
         desc: `¿Cuándo usar promesas? ¿Cuándo usar Observables? haremos una comparación entre ambos y daremos ejemplos
         reales de cuando hacer desarrollos imperativos o reactivos para que subas tu nivel`,
-        imagem: '../../../../assets/img/mayra-rodriguez.png'
+        imagem: 'assets/img/mayra-rodriguez.png'
     },
     {
         dia: 'Viernes',
@@ -123,7 +123,7 @@ export const agenda =
         nome: 'Nicolas Molina Monroy',
         titulo: 'Acelera la velocidad de navegación de tu Aplicación Angular',
         desc: 'En esta charla vas a aprender a como acelerar la experiencia de navegación de tus usuarios en aplicaciones Angular.',
-        imagem: '../../../../assets/img/nicolas-monroy.jpg'
+        imagem: 'assets/img/nicolas-monroy.jpg'
     },
     {
         dia: 'Viernes',
@@ -175,7 +175,7 @@ export const speakers = [
     {
         nome: 'Oscar',
         sobrenome: 'Barajas',
-        imagem: '../../../../assets/img/oscar-barajas.png',
+        imagem: 'assets/img/oscar-barajas.png',
         redes: {
             twitter : 'https://twitter.com/gndx'
         },
@@ -186,7 +186,7 @@ export const speakers = [
     {
         nome: 'Julián',
         sobrenome: 'Duque',
-        imagem: '../../../../assets/img/julian-duque.jpg',
+        imagem: 'assets/img/julian-duque.jpg',
         redes: {
             twitter : 'https://twitter.com/julian_duque'
         },
@@ -197,7 +197,7 @@ export const speakers = [
     {
         nome: 'Yeison',
         sobrenome: 'Daza',
-        imagem: '../../../../assets/img/yeison-daza.jpg',
+        imagem: 'assets/img/yeison-daza.jpg',
         redes: {
             twitter : 'https://twitter.com/Yeion7'
         },
@@ -207,7 +207,7 @@ export const speakers = [
     {
         nome: 'Jorge',
         sobrenome: 'Cano',
-        imagem: '../../../../assets/img/jorge-cano.jpg',
+        imagem: 'assets/img/jorge-cano.jpg',
         redes: {
             twitter : 'https://twitter.com/jorgeucano'
         },
@@ -221,7 +221,7 @@ export const speakers = [
     {
         nome: 'Maria Alejandra',
         sobrenome: 'Giraldo',
-        imagem: '../../../../assets/img/maleja-giraldo.jpg',
+        imagem: 'assets/img/maleja-giraldo.jpg',
         redes: {
             twitter : 'https://twitter.com/maleja111'
         },
@@ -232,7 +232,7 @@ export const speakers = [
     {
         nome: 'Sebastian',
         sobrenome: 'Gomez',
-        imagem: '../../../../assets/img/sebastian.jpg',
+        imagem: 'assets/img/sebastian.jpg',
         redes: {
             twitter : 'https://twitter.com/sebasgojs'
         },
@@ -246,7 +246,7 @@ export const speakers = [
     {
         nome: 'Sergio',
         sobrenome: 'Valencia',
-        imagem: '../../../../assets/img/sergio-valencia.jpg',
+        imagem: 'assets/img/sergio-valencia.jpg',
         redes: {
             twitter : 'https://twitter.com/sergio91044'
         },
@@ -256,7 +256,7 @@ export const speakers = [
     {
         nome: 'Fabio',
         sobrenome: 'Cortés',
-        imagem: '../../../../assets/img/fabio-cortes.jpg',
+        imagem: 'assets/img/fabio-cortes.jpg',
         redes: {
             twitter : 'https://twitter.com/fabiojcortes'
         },
@@ -266,7 +266,7 @@ export const speakers = [
     {
         nome: 'Samuel',
         sobrenome: 'Burbano',
-        imagem: '../../../../assets/img/samuel-burbano.jpg',
+        imagem: 'assets/img/samuel-burbano.jpg',
         redes       : {
             twitter : 'https://twitter.com/iosamuel'
         },
@@ -276,7 +276,7 @@ export const speakers = [
     {
         nome: 'Mayra',
         sobrenome: 'Rodriguez',
-        imagem: '../../../../assets/img/mayra-rodriguez.png',
+        imagem: 'assets/img/mayra-rodriguez.png',
         redes: {
             twitter : 'https://twitter.com/mayrascript',
         },
@@ -287,7 +287,7 @@ export const speakers = [
     {
         nome: 'Nicolas',
         sobrenome: 'Molina',
-        imagem: '../../../../assets/img/nicolas-monroy.jpg',
+        imagem: 'assets/img/nicolas-monroy.jpg',
         redes: {
             twitter : 'https://twitter.com/nicobytes'
         },
