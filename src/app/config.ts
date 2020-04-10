@@ -315,9 +315,9 @@ export const speakers = [
     {
         nome        : 'Paula',
         sobrenome   : 'Mazo Cortés',
-        imagem      : 'https://avatars2.githubusercontent.com/u/22626905?s=460&v=4',
+        imagem      : 'assets/img/paula-mazo.jpg',
         redes       : {
-            twitter : 'https://twitter.com/Mazoster'
+            twitter : 'https://twitter.com/paulamazoc'
         },
         bio         : `Conocida como "Mazo" desde el colegio. Ha trabajado en las áreas de Infraestructura, DevOps y
         en los últimos dos años en desarrollo 💛. Web UI Developer en Globant, amante de Javascript y el clean code.
