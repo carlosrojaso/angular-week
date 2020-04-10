@@ -12,6 +12,7 @@ export const agenda =
         React, Angular o Vue.`,
         imagem: 'assets/img/oscar-barajas.png'
     },
+
     {
         dia: 'Miercoles',
         startDate: 1586392200000,
@@ -23,6 +24,7 @@ export const agenda =
         depurar aplicaciones JavaScript y Node.js`,
         imagem: 'assets/img/julian-duque.jpg'
     },
+
     {
         dia: 'Miercoles',
         startDate: 1586394000000,
@@ -34,6 +36,7 @@ export const agenda =
         mayores restos a sido mantener la consistencia, hasta llegar a hablar sobre design tokens`,
         imagem: 'assets/img/yeison-daza.jpg'
     },
+
     {
         dia: 'Miercoles',
         startDate: 1586395800000,
@@ -45,6 +48,7 @@ export const agenda =
         el nos ayudara a entender nuestros poderes reactivos!`,
         imagem: 'assets/img/jorge-cano.jpg'
     },
+
     {
         dia: 'Miercoles',
         startDate: 1586397600000,
@@ -55,6 +59,7 @@ export const agenda =
         desc: 'En en esta charla vamos a aprender como los conocimientos de front-end se pueden fusionar en el back-end',
         imagem: 'assets/img/maleja-giraldo.jpg'
     },
+
     {
         dia: 'Jueves',
         startDate: 1586476800000,
@@ -72,6 +77,7 @@ export const agenda =
         https://github.com/seagomezar/learning-bulljs`,
         imagem: 'assets/img/sebastian.jpg'
     },
+
     {
         dia: 'Jueves',
         startDate: 1586478600000,
@@ -82,6 +88,7 @@ export const agenda =
         desc: 'Aprende sobre buenas prácticas que te ayudará a mejorar el performance de tu codigo',
         imagem: 'assets/img/sergio-valencia.jpg'
     },
+
     {
         dia: 'Jueves',
         startDate: 1586480400000,
@@ -93,6 +100,7 @@ export const agenda =
         que van desde el mundo real hasta la realidad virtual`,
         imagem: 'assets/img/fabio-cortes.jpg'
     },
+
     {
         dia: 'Jueves',
         startDate: 1586482200000,
@@ -104,6 +112,7 @@ export const agenda =
         en Vue y la polémica que ha generado en los desarrolladores que usan y aman Vue`,
         imagem: 'assets/img/samuel-burbano.jpg'
     },
+
     {
         dia: 'Jueves',
         startDate: 1586484000000,
@@ -115,6 +124,7 @@ export const agenda =
         reales de cuando hacer desarrollos imperativos o reactivos para que subas tu nivel`,
         imagem: 'assets/img/mayra-rodriguez.png'
     },
+
     {
         dia: 'Viernes',
         startDate: 1586563200000,
@@ -125,6 +135,7 @@ export const agenda =
         desc: 'En esta charla vas a aprender a como acelerar la experiencia de navegación de tus usuarios en aplicaciones Angular.',
         imagem: 'assets/img/nicolas-monroy.jpg'
     },
+
     {
         dia: 'Viernes',
         startDate: 1586565000000,
@@ -137,6 +148,7 @@ export const agenda =
         Babel y otros temas interesantes de Webpack.`,
         imagem: 'assets/img/ricardo-chavarria.jpg'
     },
+
     {
         dia: 'Viernes',
         startDate: 1586566800000,
@@ -147,23 +159,12 @@ export const agenda =
         desc: 'Que cosas debes tener en cuenta para usar Docker con tu proyecto en JS',
         imagem: 'assets/img/paula-mazo.jpg'
     },
+
     {
         dia: 'Viernes',
         startDate: 1586568600000,
         endDate: 1586570400000,
         hora: '8:30pm - 9:00pm GMT -5',
-        nome: 'Vanessa Aristizabal',
-        titulo: 'Meeseeks de JavaScript',
-        desc: `Los Meeseeks , son criaturas que sirven a un propósito en particular y hay algunas características de JavaScript
-        que podríamos llamar Meeseeks, que nos facilitan mucho la creación de nuestros código y en esta charla quiero darles a conocer
-        algunos de ellos.`,
-        imagem: 'assets/img/vanessa.jpg'
-    },
-    {
-        dia: 'Viernes',
-        startDate: 1586570400000,
-        endDate: 1586572200000,
-        hora: '09:00pm - 9:30pm GMT -5',
         nome: 'Jesús Salvador Rodríguez Cardiel',
         titulo: 'JS ha cambiado mi vida',
         desc: 'Como JS revolucionó mi forma de trabajo',
@@ -321,18 +322,6 @@ export const speakers = [
         bio         : `Conocida como "Mazo" desde el colegio. Ha trabajado en las áreas de Infraestructura, DevOps y
         en los últimos dos años en desarrollo 💛. Web UI Developer en Globant, amante de Javascript y el clean code.
         Si le queda tiempo en el sprint :v`,
-    },
-
-    {
-        nome: 'Vanessa',
-        sobrenome: 'Aristizabal',
-        imagem: 'assets/img/vanessa.jpg',
-        redes: {
-            twitter : 'https://twitter.com/vanessamarely'
-        },
-        bio: `Vanessa Aristizabal es Ingeniera de sistemas, trabaja como Web UI en Globant. Organizadora de
-        GDG Medellín y colabora en la organización de  NG-Conf Colombia. GDE en Angular & Web Technologies.
-        Apasionada de la tecnología,  el diseño y el Anime.`,
     },
 
     {
